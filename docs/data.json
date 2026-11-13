@@ -1,0 +1,41 @@
+{
+ "items": {},
+ "sources": {
+  "aph-calendar": {
+   "name": "Parliament: events calendar",
+   "url": "https://www.aph.gov.au/news_and_events/events_calendar",
+   "checked": "2026-11-13T06:05:08.944849+00:00",
+   "status": "problem",
+   "message": "The site answered with error 403 (it may be blocking automated visits)."
+  },
+  "aph-hearings": {
+   "name": "Parliament: watch, read, listen (hearings)",
+   "url": "https://www.aph.gov.au/News_and_Events/Watch_Read_Listen",
+   "checked": "2026-11-13T06:05:08.944849+00:00",
+   "status": "problem",
+   "message": "The site answered with error 403 (it may be blocking automated visits)."
+  },
+  "aph-tabled": {
+   "name": "Parliament: tabled documents",
+   "url": "https://www.aph.gov.au/Parliamentary_Business/Tabled_Documents",
+   "checked": "2026-11-13T06:05:08.944849+00:00",
+   "status": "problem",
+   "message": "The site answered with error 403 (it may be blocking automated visits)."
+  },
+  "industry-foi": {
+   "name": "Industry department: FOI information",
+   "url": "https://www.industry.gov.au/accessing-information/freedom-information-disclosure",
+   "checked": "2026-11-13T06:05:08.944849+00:00",
+   "status": "problem",
+   "message": "Could not reach the page: ReadTimeout."
+  },
+  "industry-foi-2026": {
+   "name": "Industry department: FOI disclosure log 2026",
+   "url": "https://www.industry.gov.au/accessing-information/freedom-information-disclosure/2026",
+   "checked": "2026-11-13T06:05:08.944849+00:00",
+   "status": "problem",
+   "message": "Could not reach the page: ReadTimeout."
+  }
+ },
+ "updated": "2026-11-13T06:05:08.944849+00:00"
+}
